@@ -1,2 +1,2 @@
-# EJS_AUTH
 # EXPRESS-SESSION
+using express session
